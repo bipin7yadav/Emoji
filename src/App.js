@@ -10,7 +10,12 @@ var emojiDictionary = {
   "😑": "annoyance",
   "🤪": "Zany Face",
   "😴": "Sleeping Face",
-  "👿": "Evil Eye"
+  "👿": "Evil Eye",
+  "🦁": "lion",
+  "🥝": "kiwi Fruits",
+  "🎂": "Birthday Cake",
+  "🌋": "Volcano",
+  "🌅": "Sunrise"
 };
 
 var emojiWeknow = Object.keys(emojiDictionary);
